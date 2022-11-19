@@ -1,0 +1,27 @@
+{
+  "name": "randable",
+  "version": "1.0.0",
+  "description": "Random string generator with custom length",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adminha/randable.git"
+  },
+  "keywords": [
+    "random",
+    "string",
+    "generator",
+    "javascript",
+    "custom",
+    "length"
+  ],
+  "author": "Mostafa Safarian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adminha/randable/issues"
+  },
+  "homepage": "https://github.com/adminha/randable#readme"
+}
